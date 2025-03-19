@@ -4,6 +4,7 @@ Messaging App used Kotlin JETPACK Compose Dagger 2 MVVM
 
 ![hq720](https://github.com/user-attachments/assets/b2f58c69-17c0-479c-b976-fc748346ba98)
 ![1_NvvHhA24kizVjj7W50AnuA](https://github.com/user-attachments/assets/595e2330-0057-48cb-96ba-5a2c781f0bd8)
+![Firebase_logo](https://github.com/user-attachments/assets/65c4b6c3-6a5d-467c-af38-b7a67f975ee5)
 
 
 ![Msg1](https://github.com/user-attachments/assets/ddf26ac4-12f7-4121-807b-5391c8dac5b3)
