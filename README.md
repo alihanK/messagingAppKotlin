@@ -1,11 +1,10 @@
 # messagingAppKotlin
 Messaging App used Kotlin JETPACK Compose Dagger 2 MVVM
 
-
-![compose](https://github.com/user-attachments/assets/0d246758-85b1-4516-80fa-661ec9887ff9)
-![Dagger2_logo](https://github.com/user-attachments/assets/521df0ba-3d19-4c13-848f-f4a550baf577)
-![1_NvvHhA24kizVjj7W50AnuA](https://github.com/user-attachments/assets/595e2330-0057-48cb-96ba-5a2c781f0bd8)
-![Firebase_logo](https://github.com/user-attachments/assets/65c4b6c3-6a5d-467c-af38-b7a67f975ee5)
+![compose](https://github.com/user-attachments/assets/975b3ef4-6731-4e6f-bf6e-625203d59c30)
+![mvvm](https://github.com/user-attachments/assets/956c93b1-050a-4295-92ef-f1c2b8614ba9)
+![Dagger2_logo](https://github.com/user-attachments/assets/fee261c8-384d-42a8-8470-1338291cc28c)
+![Firebase_logo](https://github.com/user-attachments/assets/5ea92ef5-0ee1-436e-bcde-58593ca66262)
 
 
 ![Msg1](https://github.com/user-attachments/assets/ddf26ac4-12f7-4121-807b-5391c8dac5b3)
