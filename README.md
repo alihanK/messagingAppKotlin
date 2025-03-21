@@ -1,10 +1,9 @@
-# messagingAppKotlin
-Messaging App used Kotlin JETPACK Compose Dagger 2 MVVM
+# messagingAppKotlin with Kotlin JETPACK COMPOSE MVVM Clean architecture Dagger-2(di) & Firebase
 
-![compose](https://github.com/user-attachments/assets/975b3ef4-6731-4e6f-bf6e-625203d59c30)
-![mvvm](https://github.com/user-attachments/assets/956c93b1-050a-4295-92ef-f1c2b8614ba9)
-![Dagger2_logo](https://github.com/user-attachments/assets/fee261c8-384d-42a8-8470-1338291cc28c)
-![Firebase_logo](https://github.com/user-attachments/assets/5ea92ef5-0ee1-436e-bcde-58593ca66262)
+![compose_logo](https://github.com/user-attachments/assets/dff8a7dc-af8e-41cb-a657-e40c77760228)
+![MVVM](https://github.com/user-attachments/assets/49b778c6-fd5a-4c02-9b0c-d46d6a2c75cd)
+![dagger2logo](https://github.com/user-attachments/assets/d4e8a708-71a6-455a-ace1-b48b464fae3d)
+![Firebase_logo](https://github.com/user-attachments/assets/86984cde-b6e6-46d5-ade3-4ce44474860a)
 
 
 ![Msg1](https://github.com/user-attachments/assets/ddf26ac4-12f7-4121-807b-5391c8dac5b3)
