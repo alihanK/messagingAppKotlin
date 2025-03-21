@@ -1,3 +1,4 @@
+# messagingAppKotlin
 # messagingAppKotlin with Kotlin JETPACK COMPOSE MVVM Clean architecture Dagger-2 (di) & Firebase
 
 ![compose_logo](https://github.com/user-attachments/assets/dff8a7dc-af8e-41cb-a657-e40c77760228)
